@@ -4,6 +4,6 @@ THIS IS A WEBSITE WHERE THERE IS A BRIDGE BETWEEN LOCAL FARMERS TO CUSTOMERS WIT
 
 This is the place for farmers to upload there information as well as customers place orders and at the backend we will assign our delivery person to go through the delivery and payment process.
 
-Go through Farm_house.pptx for detailed information about the website
+Go through Farm_shop.pptx for detailed information about the website
 
 Run: https://farmshopp.netlify.app/
